@@ -277,6 +277,7 @@ p.note { display: none; }
 <a href="20261101_00003.jpeg" target="_blank"><img src="20261101_00003.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261101_00004.jpeg" target="_blank"><img src="20261101_00004.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261101_00005.jpeg" target="_blank"><img src="20261101_00005.jpeg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261101_00001.jpeg" target="_blank"><img src="20261101_00001.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">庭の薔薇もニッコリ！</span></h2>
 <a href="20261101_00006.jpeg" target="_blank"><img src="20261101_00006.jpeg" alt="サンプル画像" class="responsive-media"></a>
